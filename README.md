@@ -21,14 +21,14 @@ Dashboard LTE adalah aplikasi berbasis web yang dibuat untuk mempermudah pengelo
 
 ### 🔐 Halaman Login
 <p align="center">
-  <img src="assets/login.jpg" width="300" alt="Login Page"/>
+  <img src="assets/login.png" width="300" alt="Login Page"/>
 </p>
 
 ---
 
 ### 📋 Dashboard
 <p align="center">
-  <img src="assets/dashboard.jpg" width="300" alt="Dashboard"/>
+  <img src="assets/dashboard.png" width="300" alt="Dashboard"/>
 </p>
 
 ---
@@ -41,9 +41,9 @@ Dashboard LTE adalah aplikasi berbasis web yang dibuat untuk mempermudah pengelo
     <th>Edit Data Siswa</th>
   </tr>
   <tr>
-    <td align="center"><img src="assets/siswa1.jpg" width="200"/></td>
-    <td align="center"><img src="assets/siswa2.jpg" width="200"/></td>
-    <td align="center"><img src="assets/siswa3.jpg" width="200"/></td>
+    <td align="center"><img src="assets/siswa1.png" width="200"/></td>
+    <td align="center"><img src="assets/siswa2.png" width="200"/></td>
+    <td align="center"><img src="assets/siswa3.png" width="200"/></td>
   </tr>
 </table>
 
@@ -57,9 +57,9 @@ Dashboard LTE adalah aplikasi berbasis web yang dibuat untuk mempermudah pengelo
     <th>Edit Data Agama</th>
   </tr>
   <tr>
-    <td align="center"><img src="assets/agama1.jpg" width="200"/></td>
-    <td align="center"><img src="assets/agama2.jpg" width="200"/></td>
-    <td align="center"><img src="assets/agama3.jpg" width="200"/></td>
+    <td align="center"><img src="assets/agama1.png" width="200"/></td>
+    <td align="center"><img src="assets/agama2.png" width="200"/></td>
+    <td align="center"><img src="assets/agama3.png" width="200"/></td>
   </tr>
 </table>
 
@@ -73,9 +73,9 @@ Dashboard LTE adalah aplikasi berbasis web yang dibuat untuk mempermudah pengelo
     <th>Edit Data Jurusan</th>
   </tr>
   <tr>
-    <td align="center"><img src="assets/jurusan1.jpg" width="200"/></td>
-    <td align="center"><img src="assets/jurusan2.jpg" width="200"/></td>
-    <td align="center"><img src="assets/jurusan3.jpg" width="200"/></td>
+    <td align="center"><img src="assets/jurusan1.png" width="200"/></td>
+    <td align="center"><img src="assets/jurusan2.png" width="200"/></td>
+    <td align="center"><img src="assets/jurusan3.png" width="200"/></td>
   </tr>
 </table>
 
@@ -89,9 +89,9 @@ Dashboard LTE adalah aplikasi berbasis web yang dibuat untuk mempermudah pengelo
     <th>Edit Data Akun</th>
   </tr>
   <tr>
-    <td align="center"><img src="assets/akun1.jpg" width="200"/></td>
-    <td align="center"><img src="assets/akun2.jpg" width="200"/></td>
-    <td align="center"><img src="assets/akun3.jpg" width="200"/></td>
+    <td align="center"><img src="assets/akun1.png" width="200"/></td>
+    <td align="center"><img src="assets/akun2.png" width="200"/></td>
+    <td align="center"><img src="assets/akun3.png" width="200"/></td>
   </tr>
 </table>
 
@@ -103,11 +103,3 @@ Dashboard LTE adalah aplikasi berbasis web yang dibuat untuk mempermudah pengelo
 - **Backend**: PHP  
 - **Database**: MySQL  
 - **Hosting/Server**: XAMPP / Localhost
-
----
-
-## 📦 Cara Menjalankan Project
-
-1. Clone repository ini:
-   ```bash
-   git clone https://github.com/username/dashboard-lte.git
